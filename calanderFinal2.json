@@ -1,0 +1,316 @@
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Axess opens for course enrollment.", "DayOfWeek": "Wed", "tags": "stanford cal", "startDate": "August 1"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "M.D. first-year students, first day of instruction.", "DayOfWeek": "Mon", "tags": "stanford cal", "startDate": "August 27"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "M.D. second-year students, first day of instruction.", "DayOfWeek": "Thu", "tags": "stanford cal", "startDate": "August 30"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Law School instruction begins for 1st-year J.D. students. See the", "DayOfWeek": "Tue", "tags": "stanford cal", "startDate": "September 4"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "M.B.A. 1st-year instructions begins.", "DayOfWeek": "Fri", "tags": "stanford cal", "startDate": "September 14"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "At-status enrollment deadline in order to receive stipend or financial aid refund within the first week of term.", "DayOfWeek": "Fri, 5:00 p.m.", "tags": "stanford cal", "startDate": "September 14"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Autumn Quarter Cardinal Care Waiver Deadline; see the", "DayOfWeek": "Sat", "tags": "stanford cal", "startDate": "September 15"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "New undergraduates arrive.", "DayOfWeek": "Thu", "tags": "stanford cal", "startDate": "September 20"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Undergraduate housing opens for returning students; see", "DayOfWeek": "Fri", "tags": "stanford cal", "startDate": "September 21"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "First day of quarter; instruction begins.", "DayOfWeek": "Mon", "tags": "stanford cal", "startDate": "September 24"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": ". Students must be \"at status\"; i.e., students must have a study list with sufficient units to meet requirements for their status, whether full-time, 8-9-10 units (graduate students only), or approved", "DayOfWeek": "Mon, 5:00 p.m.", "tags": "stanford cal", "startDate": "September 24"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Deadline to submit Leave of Absence for full refund (see", "DayOfWeek": "Mon, 5:00 p.m.", "tags": "stanford cal", "startDate": "September 24"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Law School instruction begins for 2nd/3rd-year J.D. and advanced degree students. See the", "DayOfWeek": "Mon", "tags": "stanford cal", "startDate": "September 24"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Conferral of degrees, Summer Quarter 2017-18.", "DayOfWeek": "Thu", "tags": "stanford cal", "startDate": "September 27"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "GSB course add/drop deadline. See the full", "DayOfWeek": "Fri", "tags": "stanford cal", "startDate": "September 28"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "", "DayOfWeek": "Fri, 5:00 p.m.", "tags": "stanford cal", "startDate": "October 12"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Term withdrawal deadline; last day to submit Leave of Absence to withdraw from the University with a partial refund.", "DayOfWeek": "Mon, 5:00 p.m.", "tags": "stanford cal", "startDate": "November 5"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Change of grading basis deadline, except GSB.", "DayOfWeek": "Fri, 5:00 p.m.", "tags": "stanford cal", "startDate": "November 16"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Course withdrawal deadline, except GSB, Law, and M.D.", "DayOfWeek": "Fri, 5:00 p.m.", "tags": "stanford cal", "startDate": "November 16"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Application deadline for", "DayOfWeek": "Fri, 5:00 p.m.", "tags": "stanford cal", "startDate": "November 16"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Thanksgiving Recess (no classes).", "DayOfWeek": "Mon-Fri", "tags": "stanford cal", "startDate": "November 19", "endDate": "November 23"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Last day of Law classes. See the", "DayOfWeek": "Fri", "tags": "stanford cal", "startDate": "November 30"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Law School Reading Period. See the", "DayOfWeek": "Sat-Thu", "tags": "stanford cal", "startDate": "December 1", "endDate": "December 6"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "End-Quarter Period.", "DayOfWeek": "Mon-Sun", "tags": "stanford cal", "startDate": "December 3", "endDate": "December 9"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Last day of classes (unless class meets on Sat.), except Law.", "DayOfWeek": "Fri", "tags": "stanford cal", "startDate": "December 7"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Last opportunity to arrange Incomplete in a course, at last class.", "DayOfWeek": "Fri", "tags": "stanford cal", "startDate": "December 7"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "University thesis, D.M.A. final project, or Ph.D. dissertation, last day to submit.", "DayOfWeek": "Fri, noon", "tags": "stanford cal", "startDate": "December 7"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Late application deadline for", "DayOfWeek": "Fri, 5:00 p.m.", "tags": "stanford cal", "startDate": "December 7"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Law School examinations. See the", "DayOfWeek": "Fri-Fri", "tags": "stanford cal", "startDate": "December 7", "endDate": "December 14"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "End-Quarter examinations.", "DayOfWeek": "Mon-Fri", "tags": "stanford cal", "startDate": "December 10", "endDate": "December 14"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Winter Quarter Cardinal Care Waiver Deadline; see the", "DayOfWeek": "Sat", "tags": "stanford cal", "startDate": "December 15"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Undergraduate housing closes for Winter Break; see", "DayOfWeek": "Sat, noon", "tags": "stanford cal", "startDate": "December 15"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Grades due.", "DayOfWeek": "Tue, 11:59 p.m.", "tags": "stanford cal", "startDate": "December 18"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Winter Closure; the University is closed.", "DayOfWeek": "Mon-Fri", "tags": "stanford cal", "startDate": "December 24", "endDate": "December January"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Conferral of degrees, Autumn Quarter.", "DayOfWeek": "Thu", "tags": "stanford cal", "startDate": "January 10"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Axess opens for course enrollment.", "DayOfWeek": "Sun", "tags": "stanford cal", "startDate": "October 28"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "At-status enrollment deadline in order to receive stipend or financial aid refund within the first week of term.", "DayOfWeek": "Fri", "tags": "stanford cal", "startDate": "December 28"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Undergraduate housing opens for Winter Quarter; see", "DayOfWeek": "Sat, 8:00 a.m.", "tags": "stanford cal", "startDate": "January 5"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "First day of quarter; instruction begins for all students.", "DayOfWeek": "Mon", "tags": "stanford cal", "startDate": "January 7"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": ". Students must be \"at status\"; i.e., students must have a study list with sufficient units to meet requirements for their status, whether full-time, 8-9-10 units (graduate students only), or approved", "DayOfWeek": "Mon, 5:00 p.m.", "tags": "stanford cal", "startDate": "January 7"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Deadline to submit Leave of Absence for full refund (see", "DayOfWeek": "Mon, 5:00 p.m.", "tags": "stanford cal", "startDate": "January 7"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "GSB course add/drop deadline. See the full", "DayOfWeek": "Fri", "tags": "stanford cal", "startDate": "January 11"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Martin Luther King, Jr., Day (holiday, no classes).", "DayOfWeek": "Mon", "tags": "stanford cal", "startDate": "January 21"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": ", except GSB. Final day to add or drop a class; last day to adjust units on a variable-unit course. Last day for tuition reassessment for dropped courses or units. Students may withdraw from a course until the Course Withdrawal deadline and a 'W' notation will appear on the transcript.", "DayOfWeek": "Fri, 5:00 p.m.", "tags": "stanford cal", "startDate": "January 25"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Presidents' Day (holiday, no classes; Law does hold classes).", "DayOfWeek": "Mon", "tags": "stanford cal", "startDate": "February 18"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Term withdrawal deadline; last day to submit Leave of Absence to withdraw from the University with a partial refund.", "DayOfWeek": "Wed, 5:00 p.m.", "tags": "stanford cal", "startDate": "February 20"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Change of grading basis deadline, except GSB.", "DayOfWeek": "Fri, 5:00 p.m.", "tags": "stanford cal", "startDate": "March 1"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Course withdrawal deadline, except GSB, Law, and M.D.", "DayOfWeek": "Fri, 5:00 p.m.", "tags": "stanford cal", "startDate": "March 1"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Application deadline for", "DayOfWeek": "Fri, 5:00 p.m.", "tags": "stanford cal", "startDate": "March 1"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Last day of Law classes. See the", "DayOfWeek": "Mon", "tags": "stanford cal", "startDate": "March 11"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "End-Quarter Period.", "DayOfWeek": "Mon-Sun", "tags": "stanford cal", "startDate": "March 11", "endDate": "March 17"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Law School Reading Period. See the", "DayOfWeek": "Tue-Thu", "tags": "stanford cal", "startDate": "March 12", "endDate": "March 14"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Last day of classes (unless class meets on Sat.)", "DayOfWeek": "Fri", "tags": "stanford cal", "startDate": "March 15"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Last opportunity to arrange Incomplete in a course, at last class.", "DayOfWeek": "Fri", "tags": "stanford cal", "startDate": "March 15"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "University thesis, D.M.A. final project, Ph.D. dissertation, last day to submit.", "DayOfWeek": "Fri, noon", "tags": "stanford cal", "startDate": "March 15"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Late application deadline for", "DayOfWeek": "Fri, 5:00 p.m.", "tags": "stanford cal", "startDate": "March 15"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Spring Quarter Cardinal Care Waiver Deadline; see the", "DayOfWeek": "Fri", "tags": "stanford cal", "startDate": "March 15"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Law School examinations. See the", "DayOfWeek": "Fri-Fri", "tags": "stanford cal", "startDate": "March 15", "endDate": "March 22"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "End-Quarter examinations.", "DayOfWeek": "Mon-Fri", "tags": "stanford cal", "startDate": "March 18", "endDate": "March 22"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Undergraduate housing move-out (if departing at end of Winter Quarter); see", "DayOfWeek": "Sat", "tags": "stanford cal", "startDate": "March 23"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Grades due.", "DayOfWeek": "Tue, 11:59 p.m.", "tags": "stanford cal", "startDate": "March 26"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Conferral of degrees, Winter Quarter.", "DayOfWeek": "Thu", "tags": "stanford cal", "startDate": "April 4"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Axess opens for course enrollment.", "DayOfWeek": "Sun", "tags": "stanford cal", "startDate": "February 10"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "At-status enrollment deadline in order to receive stipend or financial aid refund within the first week of term.", "DayOfWeek": "Fri", "tags": "stanford cal", "startDate": "March 22"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Undergraduate housing move-in date for Spring Quarter; see", "DayOfWeek": "Sat", "tags": "stanford cal", "startDate": "March 30"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "First day of quarter; instruction begins for all students.", "DayOfWeek": "Mon", "tags": "stanford cal", "startDate": "April 1"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": ".Students must be \"at status\"; i.e., students must have a study list with sufficient units to meet requirements for their status, whether full-time, 8-9-10 units (graduate students only), or approved", "DayOfWeek": "Mon, 5:00 p.m.", "tags": "stanford cal", "startDate": "April 1"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Deadline to submit Leave of Absence for full refund (see", "DayOfWeek": "Mon, 5:00 p.m.", "tags": "stanford cal", "startDate": "April 1"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "GSB instruction begins (MBA and MSx courses only). See the full", "DayOfWeek": "Thu", "tags": "stanford cal", "startDate": "April 4"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "GSB course add/drop deadline. See the full", "DayOfWeek": "Tue", "tags": "stanford cal", "startDate": "April 9"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Application deadline for", "DayOfWeek": "Fri, 5:00 p.m.", "tags": "stanford cal", "startDate": "April 12"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Spring Quarter Cardinal Care Waiver Deadline; see the", "DayOfWeek": "Mon", "tags": "stanford cal", "startDate": "April 15"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": ". Last day to add or drop a class; last day to adjust units on a variable-unit course. Last day for tuition reassessment for dropped courses or units. Students may withdraw from a course until the Course Withdrawal deadline and a \"W\" notation will appear on the transcript.", "DayOfWeek": "Fri, 5:00 p.m.", "tags": "stanford cal", "startDate": "April 19"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Term withdrawal deadline; last day to submit Leave of Absence to withdraw from the University with a partial refund.", "DayOfWeek": "Mon, 5:00 p.m.", "tags": "stanford cal", "startDate": "May 13"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Change of grading basis deadline, except GSB.", "DayOfWeek": "Fri, 5:00 p.m.", "tags": "stanford cal", "startDate": "May 24"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Course withdrawal deadline, except GSB, Law, and M.D.", "DayOfWeek": "Fri, 5:00 p.m.", "tags": "stanford cal", "startDate": "May 24"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Memorial Day (holiday, no classes).", "DayOfWeek": "Mon", "tags": "stanford cal", "startDate": "May 27"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Last day of Law classes. See the", "DayOfWeek": "Thu", "tags": "stanford cal", "startDate": "May 30"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Law School reading Period. See the", "DayOfWeek": "Fri-Sun", "tags": "stanford cal", "startDate": "May 31", "endDate": "May June"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "End-Quarter Period.", "DayOfWeek": "Fri-Thu", "tags": "stanford cal", "startDate": "May 31", "endDate": "May June"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Law School examinations. See the", "DayOfWeek": "Mon-Fri", "tags": "stanford cal", "startDate": "June 3", "endDate": "June 7"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Last day of classes.", "DayOfWeek": "Wed", "tags": "stanford cal", "startDate": "June 5"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Last opportunity to arrange Incomplete in a course, at last class.", "DayOfWeek": "Wed", "tags": "stanford cal", "startDate": "June 5"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "University thesis, D.M.A. final project, or Ph.D. dissertation, last day to submit.", "DayOfWeek": "Wed, noon", "tags": "stanford cal", "startDate": "June 5"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Late application deadline for", "DayOfWeek": "Wed, 5:00 p.m.", "tags": "stanford cal", "startDate": "June 5"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Day before finals, no classes.", "DayOfWeek": "Thu", "tags": "stanford cal", "startDate": "June 6"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Grades for GSB graduating students due.", "DayOfWeek": "Wed, noon", "tags": "stanford cal", "startDate": "June 12"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Grades for graduating students due.", "DayOfWeek": "Thu, noon", "tags": "stanford cal", "startDate": "June 13"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Undergraduate housing move-out date (for all students not involved in Commencement); see", "DayOfWeek": "Fri", "tags": "stanford cal", "startDate": "June 14"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Senior Class Day.", "DayOfWeek": "Sat", "tags": "stanford cal", "startDate": "June 15"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Baccalaureate Saturday.", "DayOfWeek": "Sat", "tags": "stanford cal", "startDate": "June 15"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Commencement. Conferral of degrees, Spring Quarter.", "DayOfWeek": "Sun", "tags": "stanford cal", "startDate": "June 16"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Undergraduate Housing move-out date (for graduates and others involved in Commencement with permission); see", "DayOfWeek": "Mon", "tags": "stanford cal", "startDate": "June 17"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Grades for non-graduating students due.", "DayOfWeek": "Tue, 11:59 p.m.", "tags": "stanford cal", "startDate": "June 18"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Axess opens for course enrollment.", "DayOfWeek": "Sun", "tags": "stanford cal", "startDate": "April 14"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "At-status enrollment deadline in order to receive stipend or financial aid refund within the first week of term.", "DayOfWeek": "Fri", "tags": "stanford cal", "startDate": "June 14"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Summer Quarter Cardinal Care Waiver Deadline; see the", "DayOfWeek": "Sat", "tags": "stanford cal", "startDate": "June 15"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "First day of quarter; instruction begins.", "DayOfWeek": "Mon", "tags": "stanford cal", "startDate": "June 24"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": ".", "DayOfWeek": "Mon, 5:00 p.m.", "tags": "stanford cal", "startDate": "June 24"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Deadline to submit Leave of Absence for full refund (see", "DayOfWeek": "Mon", "tags": "stanford cal", "startDate": "June 24"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Independence Day (holiday, no classes).", "DayOfWeek": "Thu", "tags": "stanford cal", "startDate": "July 4"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": ".Final day to add or drop a class; last day to adjust units on a variable-unit course. Last day for tuition reassessment for dropped courses or units. Students may withdraw from a course until the Course Withdrawal deadline and a 'W' notation will appear on the transcript.", "DayOfWeek": "Mon, 5:00 p.m.", "tags": "stanford cal", "startDate": "July 8"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Term withdrawal deadline; last day to submit Leave of Absence to withdraw from the University with a partial refund.", "DayOfWeek": "Fri, 5:00 p.m.", "tags": "stanford cal", "startDate": "July 26"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Change of grading basis deadline.", "DayOfWeek": "Fri, 5:00 p.m.", "tags": "stanford cal", "startDate": "August 2"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Course withdrawal deadline.", "DayOfWeek": "Fri, 5:00 p.m.", "tags": "stanford cal"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Application deadline for", "DayOfWeek": "Fri, 5:00 p.m.", "tags": "stanford cal"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "End-Quarter Period.", "DayOfWeek": "Sat-Thu", "tags": "stanford cal", "startDate": "August 10", "endDate": "August 15"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Last day of classes.", "DayOfWeek": "Thu", "tags": "stanford cal", "startDate": "August 15"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Last opportunity to arrange Incomplete in a course, at last class.", "DayOfWeek": "Thu", "tags": "stanford cal", "startDate": "August 15"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "End-Quarter examinations.", "DayOfWeek": "Fri-Sat", "tags": "stanford cal", "startDate": "August 16", "endDate": "August 17"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Grades due.", "DayOfWeek": "Tue, 11:59 p.m.", "tags": "stanford cal", "startDate": "August 20"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "University thesis, D.M.A. final project, or Ph.D. dissertation, last day to submit.", "DayOfWeek": "Fri, noon", "tags": "stanford cal", "startDate": "August 30"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Late application deadline for", "DayOfWeek": "Fri, 5:00 p.m.", "tags": "stanford cal", "startDate": "August 30"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Conferral of degrees, Summer Quarter.", "DayOfWeek": "Thu", "tags": "stanford cal", "startDate": "September 26"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Labor Day", "DayOfWeek": "Monday", "tags": "mit cal", "startDate": "September 3"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Registration Day \u2014 fall term", "DayOfWeek": "Tuesday", "tags": "mit cal", "startDate": "September 4"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "First day of classes", "DayOfWeek": "Wednesday", "tags": "mit cal", "startDate": "September 5"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Student holiday", "DayOfWeek": "Friday", "tags": "mit cal", "startDate": "September 21"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Columbus Day \u2014 vacation", "DayOfWeek": "Mon, Tues", "tags": "mit cal", "startDate": "October 8, 9"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Veterans Day \u2014 holiday", "DayOfWeek": "Monday", "tags": "mit cal", "startDate": "November 12"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Thanksgiving vacation", "DayOfWeek": "Thurs, Fri", "tags": "mit cal", "startDate": "November 22, 23"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Last day of classes", "DayOfWeek": "Wednesday", "tags": "mit cal", "startDate": "December 12"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Final exams", "DayOfWeek": "Mon-Fri", "tags": "mit cal", "startDate": "December 17", "endDate": "December 21"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "IAP begins", "DayOfWeek": "Monday", "tags": "mit cal", "startDate": "January 7"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Martin Luther King, Jr. Day \u2014 holiday", "DayOfWeek": "Monday", "tags": "mit cal", "startDate": "January 21"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "IAP ends", "DayOfWeek": "Friday", "tags": "mit cal", "startDate": "February 1"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Registration Day \u2014 spring term", "DayOfWeek": "Monday", "tags": "mit cal", "startDate": "February 4"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "First day of classes", "DayOfWeek": "Tuesday", "tags": "mit cal", "startDate": "February 5"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Presidents' Day \u2014 holiday", "DayOfWeek": "Monday", "tags": "mit cal", "startDate": "February 18"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Monday schedule of classes", "DayOfWeek": "Tuesday", "tags": "mit cal", "startDate": "February 19"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Spring vacation", "DayOfWeek": "Mon-Fri", "tags": "mit cal", "startDate": "March 25", "endDate": "March 29"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Patriots' Day \u2014 vacation", "DayOfWeek": "Mon, Tues", "tags": "mit cal", "startDate": "April 15, 16"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Last day of classes", "DayOfWeek": "Thursday", "tags": "mit cal", "startDate": "May 16"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Final exams", "DayOfWeek": "Mon-Fri", "tags": "mit cal", "startDate": "May 20", "endDate": "May 24"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Commencement", "DayOfWeek": "Friday", "tags": "mit cal", "startDate": "June 7"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Open Registration", "DayOfWeek": "Mon-Fri", "tags": "usc cal", "startDate": "August 13", "endDate": "August 17"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Move-In", "DayOfWeek": "Wed", "tags": "usc cal", "startDate": "August 15"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Classes Begin", "DayOfWeek": "Mon", "tags": "usc cal", "startDate": "August 20"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Labor Day", "DayOfWeek": "Mon", "tags": "usc cal", "startDate": "September 3"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Thanksgiving Holiday", "DayOfWeek": "Wed-Sun", "tags": "usc cal", "startDate": "November 21", "endDate": "November 25"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Classes End", "DayOfWeek": "Fri", "tags": "usc cal", "startDate": "November 30"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Study Days", "DayOfWeek": "Sat-Tue", "tags": "usc cal", "startDate": "December 1", "endDate": "December 4"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Exams", "DayOfWeek": "Wed-Wed", "tags": "usc cal", "startDate": "December 5", "endDate": "December 12"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Winter Recess", "DayOfWeek": "Thu-Sun", "tags": "usc cal", "startDate": "December 13 \u2013 January\u00a06"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Open Registration", "DayOfWeek": "Thu-Fri", "tags": "usc cal", "startDate": "January 3", "endDate": "January 4"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Classes Begin", "DayOfWeek": "Mon", "tags": "usc cal", "startDate": "January\u00a07"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Martin Luther King\u2019s Birthday", "DayOfWeek": "Mon", "tags": "usc cal", "startDate": "January\u00a021"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "President\u2019s Day", "DayOfWeek": "Mon", "tags": "usc cal", "startDate": "February 18"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Spring Recess", "DayOfWeek": "Sun-Sun", "tags": "usc cal", "startDate": "March 10", "endDate": "March 17"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Classes End", "DayOfWeek": "Fri", "tags": "usc cal", "startDate": "April 26"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Study Days", "DayOfWeek": "Sat-Tue", "tags": "usc cal", "startDate": "April 27", "endDate": "April 30"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Exams", "DayOfWeek": "Wed-Wed", "tags": "usc cal", "startDate": "May 1", "endDate": "May 8"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Commencement", "DayOfWeek": "Fri", "tags": "usc cal", "startDate": "May 10"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Registration", "DayOfWeek": "Mon-Tue", "tags": "usc cal", "startDate": "May 13", "endDate": "May 14"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Classes Begin", "DayOfWeek": "Wed", "tags": "usc cal", "startDate": "May 15"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Memorial Day", "DayOfWeek": "Mon", "tags": "usc cal", "startDate": "May 27"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Independence Day", "DayOfWeek": "Thu-Fri", "tags": "usc cal", "startDate": "July 4", "endDate": "July 5"}
+{ "index":{} }
+{"@context": {"@vocab": "http://schema.org/", "tags": "http://example.org/tags"}, "@type": "Event", "name": "Classes End", "DayOfWeek": "Tue", "tags": "usc cal", "startDate": "August 6"}

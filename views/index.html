@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+
+		<!-- Remove Tap Highlight on Windows Phone IE -->
+		<meta name="msapplication-tap-highlight" content="no" />
+
+		<title>DMV</title>
+
+		<!--======================================================
+			CSS Stylesheets
+		======================================================-->
+		<link rel='stylesheet' type='text/css' href='static/css/bootstrap.min.css'>
+		<link rel='stylesheet' type='text/css' href='static/css/font-awesome.min.css'>
+		<link rel='stylesheet' type='text/css' href='static/css/animate.css'>
+		<link rel='stylesheet' type='text/css' href='static/css/style.css'>
+
+	</head>
+
+	<body>
+
+		<!--======================================================
+			Navbar
+		======================================================-->
+		{% block content %}
+		<nav class='navbar'>
+			<div class='container'>
+				<div class='navbar-header'>
+					<button type='button' class='navbar-toggle collapsed' data-toggle='collapse' data-target='#nav-collapse' aria-expanded='false'>
+						<span class='sr-only' >Toggle navigation</span>
+						<span class='icon-bar' ></span>
+						<span class='icon-bar' ></span>
+						<span class='icon-bar' ></span>
+					</button>
+
+					<div class="row">
+						<div class="col-md-4 col-sm-3 col-xs-hidden">
+							<a href="https://www.usc.edu/" class='navbar-brand'>
+								<img class='logo-light' src='https://tile.skinit.com/media/catalog/product/cache/36/image/9df78eab33525d08d6e5fb8d27136e95/u/s/usctrj17.jpg' alt>
+							</a>
+						</div>
+						<div class="col-md-4 col-sm-3 col-xs-hidden">
+							<a href="http://www.mit.edu/" class='navbar-brand'>
+								<img class='logo-light' src='https://i.pinimg.com/originals/4a/21/25/4a2125ea3d703bee63e98de2913ba2ad.png' alt>
+							</a>
+						</div>
+						<div class="col-md-4 col-sm-3 col-xs-hidden">
+							<a href="https://www.stanford.edu/" class='navbar-brand'>
+								<img class='logo-light' src='https://identity.stanford.edu/img/block-s-2color.png' alt>
+							</a>
+						</div>
+				</div>
+			</div>
+				<!-- <div class='collapse navbar-collapse' id='nav-collapse'>
+					<ul class='nav navbar-nav navbar-right'>
+						<li class="active">
+								<img src="static/img/logo.png" width="20%" height="20%" />
+							<a href="http://localhost:3001/" data-scroll>Home</a>
+						</li>
+					</ul>
+				</div> -->
+				<div class='collapse navbar-collapse' id='nav-collapse'>
+					<ul class='nav navbar-nav navbar-right'>
+						<li class="active">
+							<a href="http://localhost:3001/" data-scroll>Home</a>
+
+						</li>
+					</ul>
+				</div>
+				</div>
+			</nav>
+
+		<!--======================================================
+			Search Section
+		======================================================-->
+
+		<div class="bgimg" id= "bgid">
+			<div class='search-section' id='sectionid'>
+				<div class="container" id="app">
+					<br>
+					<div class="row">
+						<div class="col-md-12">
+							<h2 class="wow fadeInUp feature-lead" data-wow-delay='.2s' style="font-size:40px;">Welcome</h2>
+							<p class="wow fadeInUp feature-sub" data-wow-delay='.2s' style="font-size:20px;">search for food, housing and timing information</p>
+						</div>
+					</div>
+					<br>
+					<div class="col-md-12 col-sm-12 col-xs-12 search-box-margin">
+						<form class="keyword_searchForm" name="searchByKeyword" action="">
+							<div class="search-icon">
+								<svg viewBox="0 0 24 24" role="presentation" aria-hidden="true" focusable="false" style="height: 16px; width: 16px; display: block; fill: currentcolor;">
+									<path d="m10.4 18.2c-4.2-.6-7.2-4.5-6.6-8.8.6-4.2 4.5-7.2 8.8-6.6 4.2.6 7.2 4.5 6.6 8.8-.6 4.2-4.6 7.2-8.8 6.6m12.6 3.8-5-5c1.4-1.4 2.3-3.1 2.6-5.2.7-5.1-2.8-9.7-7.8-10.5-5-.7-9.7 2.8-10.5 7.9-.7 5.1 2.8 9.7 7.8 10.5 2.5.4 4.9-.3 6.7-1.7v.1l5 5c .3.3.8.3 1.1 0s .4-.8.1-1.1" fill-rule="evenodd">
+									</path>
+								</svg>
+							</div>
+							<div class="form-group has-feedback">
+							<div class="search-input">
+								<input type="text" class="form-control" name="search" id="search" placeholder="search" v-model="query">
+							</div>
+							</div>
+						</form>
+					</div>
+					<div class="row" id="result_box">
+						<br><br><br><br>
+						<div class="col-md-3" v-for="result in hidden_result" id="d">
+									<div class="panel panel-default">
+									<div class="panel-heading">
+											{{ result._source.startDate }}, {{ result._source.endDate }},{{ result._source.DayOfWeek }}
+									</div>
+									<div class="panel-body" style = "color:#000000;">
+											<p>event:{{ result._source.name }}, tag: {{ result._source.tags }}.</p>
+									</div>
+									</div>
+						</div>
+			        <!-- <div class="col-md-3" v-for="result in results" id="d">
+								{% if result._source.startDate != 0 %}
+								<div class="panel panel-default">
+								<div class="panel-heading" style="background-color:#91ffa1;">
+										{{ result._source.startDate }}, {{ result._source.endDate }},{{ result._source.DayOfWeek }}
+								</div>
+								<div class="panel-body" style = "color:#000000;">
+										<p>event:{{ result._source.name }}, tag: {{ result._source.tags }}.</p>
+								</div>
+								</div> -->
+
+			        <!-- copy -->
+			        <!-- <div class="col-md-3" v-for="result in results2" id="d"> -->
+								<!-- {{% endif %}
+								{% if result._source.occupancy != 0 %}
+	              <div class="panel panel-default" >
+	              <div class="panel-heading" style="background-color:#ff965e;">
+	                  {{ result._source.name }}, {{ result._source.address }}
+	              </div>
+	              <div class="panel-body" style = "color:#000000;">
+	                  <p>overview:{{ result._source.description }}, tag: {{ result._source.tags }}.</p>
+	              </div>
+	              </div>
+								{% endif %}
+								{% if result._source.logo != 0 %}
+	              <div class="panel panel-default" >
+	              <div class="panel-heading" style="background-color:#a5fcff;">
+	                  {{ result._source.name }},{{ result._source.address }}
+	              </div>
+	              <div class="panel-body" style = "color:#000000;">
+	                  <p>overview:{{ result._source.description }}, tag: {{ result._source.tags }}.</p>
+	              </div>
+	              </div>
+								{% endif %}
+								{% endif %}
+			        </div> -->
+			        <!-- till here-->
+			    </div>
+				</div>
+			</div>
+		</div>
+		{% endblock %}
+		<!--======================================================
+			Footer
+		======================================================-->
+		<footer class="ls-footer" id="footerid">
+			<p><span class="footer">Copyright &nbsp;© &nbsp;2019 Knowledge Gragh</span></p>
+		</footer>
+
+		<!--======================================================
+			JavaScript Files
+		======================================================-->
+		<script src='static/js/jquery-3.1.1.min.js'></script>
+		<script src='static/js/bootstrap.min.js'></script>
+		<script src='static/js/wow.min.js'></script>
+
+		<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+		<script src="https://cdn.jsdelivr.net/npm/vue"></script>
+		<script type="text/javascript" src="static/js/fuzzyset.js"></script>
+		<script src='static/js/script.js'></script>
+	</body>
+
+</html>
